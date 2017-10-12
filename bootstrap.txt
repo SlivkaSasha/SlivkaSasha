@@ -1,0 +1,7 @@
+getbootstrap.com
+getbootstrap.com/getting-started/
+через командную строку
+npm i bootstrap3
+
+
+https://getbootstrap.com/docs/3.3/getting-started/#template
