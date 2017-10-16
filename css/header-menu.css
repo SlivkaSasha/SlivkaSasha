@@ -1,0 +1,15 @@
+*{
+	position: static;
+}
+
+.menu_site{
+	position: fixed;
+	width: 5000px;
+	height: 100px;
+	background-color: black;
+	text-decoration-color: white;
+}
+
+.link{
+	display: block;
+}
